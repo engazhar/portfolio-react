@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import data from '../data.js'
-import WorkImg from '../assets/workImg.jpeg';
-import realEstate from '../assets/realestate.jpg';
+
 
 const Work = () => {
     const [noOfElements, setnoOfElements] = useState(3)
